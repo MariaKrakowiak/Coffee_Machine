@@ -1,6 +1,6 @@
 # CoffeeMachine
 
-# Description
+## Description
 
 Let's redesign our program and write a class that represents the coffee machine. The class should have a method that takes a string as input. Every time the user inputs a line (a string) to the console, the program invokes this method with one argument: the line that user input to the console. This system simulates pretty accurately how real-world electronic devices work. External components (like buttons on the coffee machine or tapping on the screen) generate events that pass into the single interface of the program.
 
@@ -16,7 +16,7 @@ Remember, that:
 * For the latte, the coffee machine needs 350 ml of water, 75 ml of milk, and 20 g of coffee beans. It costs $7.
 * And for the cappuccino, the coffee machine needs 200 ml of water, 100 ml of milk, and 12 g of coffee. It costs $6.
 
-# Instruction
+## Instruction
 
 Refactor the program. Make it so that you can communicate with the coffee machine through a single method.
 
